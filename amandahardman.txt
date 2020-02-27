@@ -1,1 +1,1 @@
-This is the original txt file for the git-workshop exercise.
+This is the changed txt file for the git-workshop exercise.
