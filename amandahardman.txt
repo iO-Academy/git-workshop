@@ -1,0 +1,1 @@
+This is the original txt file for the git-workshop exercise.
