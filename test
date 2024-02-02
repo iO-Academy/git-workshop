@@ -11,7 +11,12 @@ hello
 testies
 
 can you rubber duck my tests please
+<<<<<<< HEAD
 John was here 2K24
+=======
+
+hello from Matt
+>>>>>>> 7247517c8d36ed31997a44d601be5d2a86c3a46d
 
 
            __.
